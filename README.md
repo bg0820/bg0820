@@ -1,7 +1,5 @@
 ### 👋 안녕하세요 프리랜서 및 정규직 경력 9년차 97년생 풀스택 개발자 입니다.
 
-프로젝트 하면서 사용했던 스택 입니다.
-
 🛠️ Stacks.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/NextJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff"/>
