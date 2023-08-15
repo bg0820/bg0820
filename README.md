@@ -17,7 +17,7 @@
  
 ### 📚 Platform / Framework / Library.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/NextJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/NextJS-E0234E?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/> 
  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff"/> <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=ffffff"/>
