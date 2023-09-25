@@ -27,3 +27,6 @@
   <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
  
 [MobX logo]: https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=ffffff
+
+[![bg0820's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bg0820&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=bg0820&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
