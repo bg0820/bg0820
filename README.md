@@ -29,6 +29,6 @@
 [MobX logo]: https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=ffffff
 
 ---
-| <a href="https://github.com/bg0820/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api?username=bg0820&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Bogyu.Kim's github stats" /></a> | <a href="https://github.com/bg0820/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api/top-langs/?username=bg0820&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/bg0820/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api/top-langs/?username=bg0820&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- |
 
