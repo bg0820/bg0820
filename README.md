@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=ffffff"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff"/> <img src="https://img.shields.io/badge/RaspbianOS-A22846?style=flat-square&logo=raspberrypi&logoColor=ffffff"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=ffffff"/>
 
 ---
-| <a href="https://github.com/bg0820/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api/top-langs/?username=bg0820&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- |
+
+![BogyuKim's GitHub stats](https://github-readme-stats-private-ten.vercel.app/api/?username=bg0820&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-private-ten.vercel.app/api/top-langs/?username=bg0820&layout=compact)
 
